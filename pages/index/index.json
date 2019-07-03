@@ -1,3 +1,6 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "banner": "../../common/component/banner/banner",
+    "single-form":"../../common/component/singleForm/singleForm"
+  }
 }

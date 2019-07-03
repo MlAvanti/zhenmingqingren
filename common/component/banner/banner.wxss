@@ -1,0 +1,8 @@
+/* common/component/banner/banner.wxss */
+.banner-container {
+  width: 750rpx;
+}
+
+.banner-image {
+  width: 100%;
+}

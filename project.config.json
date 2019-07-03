@@ -12,9 +12,9 @@
 		"autoAudits": false
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.7.2",
-	"appid": "wx28bc255dde5e5c78",
-	"projectname": "zhenmingqingren-v",
+	"libVersion": "2.7.3",
+	"appid": "wx2164c5b488f8293e",
+	"projectname": "zhenmingqingren",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},

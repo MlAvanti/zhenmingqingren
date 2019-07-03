@@ -1,0 +1,33 @@
+/* common/component/singleForm/singleForm.wxss */
+.form-container {
+  border: solid 2rpx #d78b97;
+  border-radius: 10rpx;
+  margin: 24rpx auto;
+}
+.form-row {
+  width: 600rpx;
+  padding: 24rpx 24rpx;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  font-size: 24rpx;
+  border-bottom: solid 2rpx #d78b97;
+}
+.form-row:last-child {
+  border: none;
+}
+.form-txt {
+  width: 160rpx;
+}
+.form-input {
+  margin-left: 24rpx;
+  flex-grow: 1;
+}
+.form-rg {
+  margin-left: 24rpx;
+  flex-grow: 1;
+}
+.form-picker-date {
+  margin-left: 24rpx;
+  flex-grow: 1;
+}
