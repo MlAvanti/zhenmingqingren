@@ -10,7 +10,7 @@
     background-color: rgba(0, 0, 0, 0.5);
 }
 .fiexd-bottom-button .fiexd-btn{
-    padding: 0.5rem 1rem;
+    padding: 10rpx 20rpx;
 }
 .fiexd-btn .fiexd-image{
     width: 671rpx;
