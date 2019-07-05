@@ -8,7 +8,21 @@ Page({
     userInfo: {},
     hasUserInfo: false,
     canIUse: wx.canIUse('button.open-type.getUserInfo'),
-    banner: 'https://img-fe.ggwan.com/images/77b775ae63589a-750x354.png'
+    banner: 'https://img-fe.ggwan.com/images/77b775ae63589a-750x354.png',
+    imgArr:[
+      {
+        url:'https://img-fe.ggwan.com/images/7d225dee70128a-750x508.png',
+        id:1
+      },
+      {
+        url:'https://img-fe.ggwan.com/images/17503eb0e38cfd-477x414.png',
+        id:2
+      },
+      {
+        url:'https://img-fe.ggwan.com/images/b038df93a9bb6e-750x299.jpg',
+        id:3
+      }
+    ]
   },
   //事件处理函数
   bindViewTap: function() {

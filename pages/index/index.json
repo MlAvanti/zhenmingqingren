@@ -1,6 +1,8 @@
 {
   "usingComponents": {
     "banner": "../../common/component/banner/banner",
-    "single-form":"../../common/component/singleForm/singleForm"
+    "single-form":"../../common/component/singleForm/singleForm",
+    "fiexd-button":"../../common/component/fiexdBottomButton/fiexdBottomButton",
+    "image-list":"../../common/component/imageList/imageList"
   }
 }

@@ -1,0 +1,20 @@
+/* common/component/fiexdBottomButton/fiexdBottomButton.wxss */
+.fiexd-bottom-button {
+    position: fixed;
+    display: block;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 750rpx;
+    min-height: 96rpx;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.fiexd-bottom-button .fiexd-btn{
+    padding: 0.5rem 1rem;
+}
+.fiexd-btn .fiexd-image{
+    width: 671rpx;
+    height: 100rpx;
+    display: block;
+    margin: auto;
+}

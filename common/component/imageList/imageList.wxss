@@ -1,0 +1,13 @@
+/* common/component/imageList/imageList.wxss */
+.image-list-content{
+    width: 750rpx;
+    margin: 20rpx;
+}
+
+.image-list-content .image-list-item{
+    width: 100%;
+}
+
+.image-list-item .item-image{
+    width: 100%;
+}

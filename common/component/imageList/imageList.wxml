@@ -1,0 +1,8 @@
+<!--common/component/imageList/imageList.wxml-->
+<view class="image-list-content" hover-class="none" hover-stop-propagation="false">
+    <view class="image-list-item" wx:for="{{imageArray}}" wx:for-index="idx" wx:for-item="item" wx:key="{{item.id}}">
+        <image class="item-image" src="{{item.url}}" mode="aspectFit|aspectFill|widthFix" lazy-load="false" binderror="" bindload="">
+            
+        </image>
+    </view>
+</view>
